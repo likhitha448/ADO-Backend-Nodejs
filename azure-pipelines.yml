@@ -1,5 +1,5 @@
 pool:
-  name: 'azuredevops'
+  name: 'azurepool'
   
 variables:
   version: 'backend_$(Build.BuildId)'
